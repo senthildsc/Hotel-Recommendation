@@ -7,6 +7,9 @@ Predict which “hotel cluster” the user is likely to book, given his (or her)
 ## Methodologies
 
 1.K Nearest Neighbour
+
 2.Random Forest
+
 3.Naive Bayes
+
 4. Logistic Regression Tree
