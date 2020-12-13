@@ -12,4 +12,4 @@ Predict which “hotel cluster” the user is likely to book, given his (or her)
 
 3.Naive Bayes
 
-4. Logistic Regression Tree
+4.Logistic Regression Tree
