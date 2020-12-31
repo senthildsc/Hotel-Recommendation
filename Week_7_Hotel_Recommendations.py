@@ -1,18 +1,13 @@
 '''
-File              : Week_7_Hotel_Recommendations.py
 Name              : Senthilraj Srirangan
-Date              : 04/25/2020
-Assignment Number : 7.3 Assignment: Create Optimal Hotel Recommendations
-Course            : DSC 630 - Predictive Analytics
 Exercise Details  :
                 All online travel agencies are scrambling to meet the Artificial Intelligence driven personalization standard set by Amazon and Netflix.
                 In addition, the world of online travel has become a highly competitive space where brands try to capture our attention (and wallet) with recommending,
                 comparing, matching, and sharing. For this assignment, we aim to create the optimal hotel recommendations for Expedia’s users that are searching for a hotel to book.
                 For this assignment, you need to predict which “hotel cluster” the user is likely to book, given his (or her) search details.
                 In doing so, you should be able to demonstrate your ability to use four different algorithms (of your choice).
-                The data set can be found at Kaggle: Expedia Hotel Recommendations To get you started,
-                I would suggest you use train.csv which captured the logs of user behavior, and destinations.csv which contains information related to hotel reviews made by users.
-                You are also required to write a one page summary of your approach in getting to your prediction methods. I expect you to use a combination of R and Python in your answer.
+                The data set can be found at Kaggle: Expedia Hotel Recommendations To get you started,             
+              
 '''
 
 import calendar
